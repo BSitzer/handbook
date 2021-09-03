@@ -8,7 +8,7 @@ Grace Cafe’s five core values are:
 
 📈 Results
 
-👣 Iteration
+🐾 Iteration
 
 🤝 Collaboration 
 
