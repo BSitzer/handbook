@@ -8,7 +8,7 @@ Allowing everyone to make a proposal is an important aspect of life at Grace Caf
 
 ### Mission
 
-Our mission is for Grace Cafe to be one of the best learning experiences for its students in the world.   
+Our mission is for Grace Cafe to be one of the best learning experiences for its students in the world. \
 
 
 ### Vision
@@ -17,9 +17,7 @@ Grace Cafe becomes a space where the surrounding community are greatly influence
 
 ### Values
 
-Our mission guides our path, and we live our [values](https://docs.google.com/document/d/1EwgifcOLCrCQyxDu7PlHl4zeGPLn0cK2EAPR9yTjEHw/edit#heading=h.qbs7vh7osjmt) along this path.  
+Our mission guides our path, and we live our[ values](mission-and-vision.md#values) along this path.\
 
 
-  
-
-
+\
