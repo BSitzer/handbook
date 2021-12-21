@@ -1,6 +1,6 @@
 # Collaboration
 
-🤝 
+:handshake:&#x20;
 
 Helping others is a priority, even when it is not immediately related to the goals that you are trying to achieve. Similarly, you can rely on others for help and advice—in fact, you're expected to do so. Anyone can chime in on any subject, including people who don't work at Grace Cafe. The person who's responsible for the work decides how to do it, but they should always take each suggestion seriously and try to respond and explain why it may or may not have been implemented.
 
@@ -10,30 +10,30 @@ We value caring for others. Demonstrating we care for people provides an effecti
 
 ### Share
 
-There are aspects of Grace Cafe culture, such as intentional transparency, that are unintuitive to outsiders and new team members. Be willing to invest in people and engage in open dialogue. For example, consider making private issues public wherever possible so that we can all learn from the experience. Don't be afraid of judgement or scrutiny when sharing publicly, we all understand it's impossible to know everything.  
+There are aspects of Grace Cafe culture, such as intentional transparency, that are unintuitive to outsiders and new team members. Be willing to invest in people and engage in open dialogue. For example, consider making private issues public wherever possible so that we can all learn from the experience. Don't be afraid of judgement or scrutiny when sharing publicly, we all understand it's impossible to know everything.\
 
 
-Everyone can remind anyone in the organisation about our values. If there is a disagreement about the interpretations, the discussion can be escalated to more people within the organisation without repercussions.  
+Everyone can remind anyone in the organisation about our values. If there is a disagreement about the interpretations, the discussion can be escalated to more people within the organisation without repercussions.\
 
 
 Share problems you run into, ask for help, be forthcoming with information and speak up.
 
 ### Negative feedback is 1-1
 
-Give negative feedback in the smallest setting possible. One-on-one in-person or alternatively video calls are preferred. If you are unhappy with anything \(your duties, your colleague, your boss, your salary, your location, your computer\), please let a manager know as soon as you realise it. We want to solve problems while they are small.  
+Give negative feedback in the smallest setting possible. One-on-one in-person or alternatively video calls are preferred. If you are unhappy with anything (your duties, your colleague, your boss, your salary, your location, your computer), please let a manager know as soon as you realise it. We want to solve problems while they are small.\
 
 
-Negative feedback is distinct from negativity and disagreement. If there is no direct feedback involved, strive to discuss disagreement in a public channel, respectfully and transparently.  
+Negative feedback is distinct from negativity and disagreement. If there is no direct feedback involved, strive to discuss disagreement in a public channel, respectfully and transparently.\
 
 
-We deal with negative issues all the time at Grace Cafe. If it's not a problem, then why are we discussing it? We deal with negativity a lot, and that's also part of our ambition.  
+We deal with negative issues all the time at Grace Cafe. If it's not a problem, then why are we discussing it? We deal with negativity a lot, and that's also part of our ambition.\
 
 
 If you want to get better, you talk about what you can improve. We're allowed to publicly discuss negative things; we're not allowed to give negative feedback in a large setting if it could be feasibly administered in a smaller setting.
 
 ### Say thanks
 
-Recognise the people that helped you publicly, for example in our \#thanks Slack channel.
+Recognise the people that helped you publicly, for example in our #thanks Slack channel.
 
 ### Give feedback effectively
 
@@ -49,7 +49,7 @@ If you have to remind someone of the position you have in the organisation, you'
 
 ### Assume positive intent
 
-We naturally have a double standard when it comes to the actions of others. We blame circumstances for our own mistakes, but individuals for theirs. This double standard is called the Fundamental Attribution Error. In order to mitigate this bias, you should always assume positive intent in your interactions with others, respecting their expertise and giving them grace in the face of what you might perceive as mistakes. When disagreeing, folks sometimes argue against the weakest points of argument, or sometimes argue against a "straw man". Assume the points are presented in good faith, and instead try to argue the "steel man" \(or the "strong man"\):
+We naturally have a double standard when it comes to the actions of others. We blame circumstances for our own mistakes, but individuals for theirs. This double standard is called the Fundamental Attribution Error. In order to mitigate this bias, you should always assume positive intent in your interactions with others, respecting their expertise and giving them grace in the face of what you might perceive as mistakes. When disagreeing, folks sometimes argue against the weakest points of argument, or sometimes argue against a "straw man". Assume the points are presented in good faith, and instead try to argue the "steel man" (or the "strong man"):
 
 That’s when you articulate the absolute strongest version of your opponent’s position—potentially even stronger than the one they presented. A good steel-man argument is one where the other person feels you've represented their argument well, even if they still disagree with your assumptions or conclusion.
 
@@ -59,11 +59,11 @@ There is a lot of good in this article about not wanting jerks on our team, but 
 
 ### Say sorry
 
-If you made a mistake, apologise as soon as possible. Saying sorry is not a sign of weakness but one of strength. The people that do the most work will likely make the most mistakes. Additionally, when we share our mistakes and bring attention to them, others can learn from us, and the same mistake is less likely to be repeated by someone else. Mistakes can include when you have not been kind to someone. In order to reinforce our values, it is important, and takes more courage, to apologize publicly when you have been unkind publicly \(e.g., when you have said something unkind or unprofessional to an individual or group in a Slack channel\).
+If you made a mistake, apologise as soon as possible. Saying sorry is not a sign of weakness but one of strength. The people that do the most work will likely make the most mistakes. Additionally, when we share our mistakes and bring attention to them, others can learn from us, and the same mistake is less likely to be repeated by someone else. Mistakes can include when you have not been kind to someone. In order to reinforce our values, it is important, and takes more courage, to apologize publicly when you have been unkind publicly (e.g., when you have said something unkind or unprofessional to an individual or group in a Slack channel).
 
 ### No ego
 
-Don't defend a point to win an argument or double-down on a mistake. You are not your work; you don't have to defend your point. You do have to search for the right answer with help from others.  
+Don't defend a point to win an argument or double-down on a mistake. You are not your work; you don't have to defend your point. You do have to search for the right answer with help from others.\
 
 
 In many organisations, there's a subtle, low-level, persistent pressure to continually prove your worth. And I believe that this fuels impostor syndrome and wreaks havoc on mental health.
@@ -94,11 +94,11 @@ Investigate mistakes in a way that focuses on the situational aspects of a failu
 
 ### Short toes
 
-People joining the organisation frequently say, "I don't want to step on anyone's toes." At Grace Cafe, we should be more accepting of people taking initiative in trying to improve things. As organisations grow, their speed of decision-making goes down since there are more people involved. We should counteract that by having short toes and feeling comfortable letting others contribute to our domain. 
+People joining the organisation frequently say, "I don't want to step on anyone's toes." At Grace Cafe, we should be more accepting of people taking initiative in trying to improve things. As organisations grow, their speed of decision-making goes down since there are more people involved. We should counteract that by having short toes and feeling comfortable letting others contribute to our domain.&#x20;
 
 ### It's impossible to know everything
 
-We know we must rely on others for the expertise they have that we don't. It's OK to admit you don't know something and to ask for help, even if doing so makes you feel vulnerable. It is never too late to ask a question, and by doing so, you can get the information you need to produce results and to strengthen your own skills as well as Grace Cafe as a whole. After your question is answered, please document the answer so that it can be shared.  
+We know we must rely on others for the expertise they have that we don't. It's OK to admit you don't know something and to ask for help, even if doing so makes you feel vulnerable. It is never too late to ask a question, and by doing so, you can get the information you need to produce results and to strengthen your own skills as well as Grace Cafe as a whole. After your question is answered, please document the answer so that it can be shared.\
 
 
 Don't display surprise when people say they don't know something, as it is important that everyone feels comfortable saying "I don't know" and "I don't understand."
@@ -113,6 +113,4 @@ We don't want people to play politics at Grace Cafe. One way to spot when this i
 
 ### Collaboration Quiz
 
-Collaboration Quiz: [https://forms.gle/dp7jPqMnXxnwKcyF8](https://forms.gle/dp7jPqMnXxnwKcyF8) \(100% pass for all quizzes\)  
-
-
+Collaboration Quiz: [https://forms.gle/dp7jPqMnXxnwKcyF8](https://forms.gle/dp7jPqMnXxnwKcyF8) (100% pass for all quizzes)\

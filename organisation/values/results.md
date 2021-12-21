@@ -1,32 +1,32 @@
 # Results
 
-📈 
+:chart\_with\_upwards\_trend:&#x20;
 
-We do what we promised to each other, the church, the community and our partners.  
+We do what we promised to each other, the church, the community and our partners.\
 
 
 ### Measure results not hours
 
-We care about what you achieve: the exam percentage you got, the visitor you made happy, and the team member you helped. Someone who took the afternoon off shouldn't feel like they did something wrong. You don't have to defend how you spend your day. We trust team members to do the right thing instead of having rigid rules. Do not incite competition by proclaiming how many hours you worked yesterday. If you are working too many hours, talk to the manager to discuss solutions.  
+We care about what you achieve: the exam percentage you got, the visitor you made happy, and the team member you helped. Someone who took the afternoon off shouldn't feel like they did something wrong. You don't have to defend how you spend your day. We trust team members to do the right thing instead of having rigid rules. Do not incite competition by proclaiming how many hours you worked yesterday. If you are working too many hours, talk to the manager to discuss solutions.\
 
 
 ### Dogfooding
 
-We use our own product. We utilise our learning methodologies as a team as do our students. 
+We use our own product. We utilise our learning methodologies as a team as do our students.&#x20;
 
 Our entire organisation uses Grace Cafe methods to collaborate on this handbook. We also capture other content and process and manage them with Grace Cafe.
 
-When something breaks, doesn't work well, or needs improvement, we are more likely to notice it internally and address it before it impacts our larger community. For example, our governance methodology of sociocracy is used by the students and in management meetings.  
+When something breaks, doesn't work well, or needs improvement, we are more likely to notice it internally and address it before it impacts our larger community. For example, our governance methodology of sociocracy is used by the students and in management meetings.\
 
 
 ### Give agency
 
-We give people agency to focus on what they think is most beneficial. If a meeting doesn't seem interesting and someone's active participation is not critical to the outcome of the meeting, they can always opt to not attend, or during a video call they can work on other things if they want. Staying in the call may still make sense even if you are working on other tasks, so other peers can ping you and get fast answers when needed. This is particularly useful in multi-purpose meetings where you may be involved for just a few minutes.  
+We give people agency to focus on what they think is most beneficial. If a meeting doesn't seem interesting and someone's active participation is not critical to the outcome of the meeting, they can always opt to not attend, or during a video call they can work on other things if they want. Staying in the call may still make sense even if you are working on other tasks, so other peers can ping you and get fast answers when needed. This is particularly useful in multi-purpose meetings where you may be involved for just a few minutes.\
 
 
 ### Write promises down
 
-Agree in writing on measurable goals. Within the organisation we use public OKRs for that \(coming soon\).  
+Agree in writing on measurable goals. Within the organisation we use public OKRs for that (coming soon).\
 
 
 ### Growth mindset
@@ -51,26 +51,26 @@ While we iterate with small changes, we strive for large, ambitious results.
 
 ### Perseverance
 
-Working at Grace Cafe will expose you to situations of various levels of difficulty and complexity. This requires focus and the ability to defer gratification. We value the ability to maintain focus and motivation when work is tough and asking for help when needed.  
+Working at Grace Cafe will expose you to situations of various levels of difficulty and complexity. This requires focus and the ability to defer gratification. We value the ability to maintain focus and motivation when work is tough and asking for help when needed.\
 
 
 ### Bias for action
 
-It's important that we keep our focus on action, and don't fall into the trap of analysis paralysis or sticking to a slow, quiet path without risk. Decisions should be thoughtful, but delivering fast results requires the fearless acceptance of occasionally making mistakes; our bias for action also allows us to course correct quickly. Everyone will make mistakes, but it's the relative number of mistakes against all decisions made \(i.e. percentage of mistakes\), and the swift correction or resolution of that mistake, which is important. A key to success with transparency is to always combine an observation with questions to ensure understanding and suggestions for solutions / improvement to the group that can take action. We don't take the easy path of general complaints without including and supporting the groups that can affect change. Success with transparency almost always requires effective collaboration.  
+It's important that we keep our focus on action, and don't fall into the trap of analysis paralysis or sticking to a slow, quiet path without risk. Decisions should be thoughtful, but delivering fast results requires the fearless acceptance of occasionally making mistakes; our bias for action also allows us to course correct quickly. Everyone will make mistakes, but it's the relative number of mistakes against all decisions made (i.e. percentage of mistakes), and the swift correction or resolution of that mistake, which is important. A key to success with transparency is to always combine an observation with questions to ensure understanding and suggestions for solutions / improvement to the group that can take action. We don't take the easy path of general complaints without including and supporting the groups that can affect change. Success with transparency almost always requires effective collaboration.\
 
 
 ### Accepting uncertainty
 
-We should strive to accept that there are things that we don’t know about the work we’re trying to do, and that the best way to drive out that uncertainty is not by layering analysis and conjecture over it, but rather accepting it and moving forward, driving it out as we go along. Wrong solutions can be fixed, but non-existent ones aren’t adjustable at all.  
+We should strive to accept that there are things that we don’t know about the work we’re trying to do, and that the best way to drive out that uncertainty is not by layering analysis and conjecture over it, but rather accepting it and moving forward, driving it out as we go along. Wrong solutions can be fixed, but non-existent ones aren’t adjustable at all.\
 
 
 ### Escalate to unblock
 
-We should be diligent to define Directly Responsible Individuals \(DRI\). DRIs are empowered to escalate to unblock. Managers at Grace Cafe seek to increase the output of the work of those on their team, a core concept in [High Output Management](https://medium.com/@iantien/top-takeaways-from-andy-grove-s-high-output-management-2e0ecfb1ea63). Early escalation, delivered with context of the challenge, enables managers to function as an unblocker.
+We should be diligent to define Directly Responsible Individuals (DRI). DRIs are empowered to escalate to unblock. Managers at Grace Cafe seek to increase the output of the work of those on their team, a core concept in [High Output Management](https://medium.com/@iantien/top-takeaways-from-andy-grove-s-high-output-management-2e0ecfb1ea63). Early escalation, delivered with context of the challenge, enables managers to function as an unblocker.
 
 ### Student results
 
-Our focus is to improve the results that students achieve. Student results are more important than:  
+Our focus is to improve the results that students achieve. Student results are more important than:\
 
 
 * What we plan to teach. If we focus only on our own plans, we would have a set curriculum with a set timetable and no self-management expected of the students’ schedules and self direction of what they want to learn. .
@@ -80,6 +80,4 @@ Our focus is to improve the results that students achieve. Student results are m
 
 ### Results Quiz
 
-Results Quiz to be completed: [https://forms.gle/sRsh5jzssadp3VxE9](https://forms.gle/sRsh5jzssadp3VxE9)  
-
-
+Results Quiz to be completed: [https://forms.gle/sRsh5jzssadp3VxE9](https://forms.gle/sRsh5jzssadp3VxE9)\

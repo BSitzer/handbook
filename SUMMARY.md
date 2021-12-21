@@ -25,7 +25,8 @@
   * [Updating our values](organisation/values/updating-our-values.md)
   * [How do we reinforce our values](organisation/values/how-do-we-reinforce-our-values.md)
 * [Risks](organisation/risks.md)
-* [Governance](organisation/governance.md)
+* [Governance](organisation/governance/README.md)
+  * [Policies](organisation/governance/policies.md)
 * [Communication](organisation/communication.md)
 * [Culture](organisation/culture.md)
 * [Handbook](organisation/handbook.md)
@@ -52,4 +53,3 @@
 
 * [Legal](legal/legal.md)
 * [Student legal registration](legal/student-legal-registration.md)
-
