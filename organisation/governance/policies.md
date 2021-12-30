@@ -6,6 +6,40 @@ description: >-
 
 # Policies
 
+### Conflict Resolution Policy
+
+Adult Conflict : Safety - when someone walks into the building without permission and bulling. Normal Conflict : Kitchen Conflict - like leaving my plate or forgetting to wash my cup and name calling.
+
+Here are the steps y'all proposed in our session last week. Remember we are attaching values to our steps for conflict. We decided these are the steps for conflict that needs an adult to help solve.&#x20;
+
+**Adult conflict:**
+
+1. Call an adult \[ Protection ]
+2. Calm the people involved \[ Contentment ]
+3. Call the circle A.S.A.P \[ Responsibility ]
+4. Say values
+5. Ask everyone how they feeling \[ Respect ]
+6. If passing the facilitator puts meeting on hold and reschedule
+7. Give everyone an opportunity to speak \[ Vulnerability ]
+8. Ask what they think should happen \[ Humanity ]
+9. Try to find middle ground \[ Open-minded ]
+10. Ask for approval \[ Care ]
+11. Ask how they feel \[ Connection ]
+12. Conflict resolved \[ Forgiveness ]
+
+
+
+**Normal Conflict.**
+
+1. Calm yourself down by breathing exercise-Self awareness&#x20;
+2. Approach person and ask to talk.-Bravery&#x20;
+3. Keep an open mind-Open mindedness&#x20;
+4. Ask question politely-Kindness Don't ask why.Ask What or How. Gratitude&#x20;
+5. Stop talking, breath.-Self Awareness.&#x20;
+6. Listen to the other person\Give each other and opportunity to speak- respect&#x20;
+7. Accept Response \_or Ask more questions-Speak truth in love : When someone does/does not ..i feel -Collaboration&#x20;
+8. Thanks person for listening .-Gratitude
+
 ### Monday and Friday Church packing
 
 What:&#x20;
